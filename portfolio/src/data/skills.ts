@@ -4,10 +4,14 @@ import type { Skill } from "../types";
 export const skills: Skill[] = [
   {
     category: "Språk",
-    items: ["Python (grunnleggende)", "C# (under opplæring)"],
+    items: ["Python (grunnleggende)", "C# (under opplæring)", "C"],
   },
   {
     category: "Media",
     items: ["After Effects (kompetent)", "Premiere Pro (kompetent)", "Photoshop", "Davinci Resolve"],
+  },
+  {
+    category: "Drift",
+    items: ["Wireshark", "Linux"],
   },
 ];

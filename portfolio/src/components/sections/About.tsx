@@ -29,8 +29,7 @@ export function About() {
             </h2>
             <p className="mt-3 text-base leading-relaxed text-ink-soft">
               Jeg er en 17 år gammel IT elev på Haugaland videregående skole
-              med stor interesse for utvikling, å lage noe, cybersikkerhet, OSINT og digital etterforskning. Målet mitt er å jobbe med
-              trusseletterretning i fremtiden.
+              med stor interesse for utvikling, å lage noe, cybersikkerhet, OSINT og digital etterforskning.
             </p>
           </div>
           <p className="mt-6 text-xs font-medium text-ink-faint">

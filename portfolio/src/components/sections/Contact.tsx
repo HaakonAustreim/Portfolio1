@@ -11,10 +11,9 @@ export function Contact() {
 
       <SubCard className="flex flex-col gap-3 p-6 sm:flex-row sm:items-center sm:justify-between">
         <div>
-          <p className="font-medium text-ink">Get in touch</p>
+          <p className="font-medium text-ink">Ta kontakt</p>
           <p className="text-sm text-ink-soft">
-            Feel free to reach out about internships, projects, or anything
-            else.
+            Spør meg om hva som helst.
           </p>
         </div>
 
